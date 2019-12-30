@@ -95,3 +95,4 @@ const w = ['./file.png'];
 
 
 
+client.login(process.env.BOT_TOKEN)
