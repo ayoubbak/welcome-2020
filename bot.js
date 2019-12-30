@@ -21,7 +21,7 @@ const bot = client
 
 
 client.on('guildMemberAdd', member => {
-let channel = member.guild.channels.get("646121774655864842");
+let channel = member.guild.channels.get("661191392579682308");
 if (member.user.bot) return;
 var Canvas = require('canvas')
 var jimp = require('jimp')
